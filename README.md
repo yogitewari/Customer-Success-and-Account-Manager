@@ -54,15 +54,10 @@ Kumaon University, Nainital, India (2002-2005)
 - Three "On the Spot" Awards at Tata Teleservices (2016, 2020)
 - Two "High-Flyer" Awards at Tata Teleservices (2016)
 
-## 📈 GitHub Stats
-
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshtewari&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshtewari&layout=compact&theme=radical)
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ytewari)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yogeshtewari.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/ytewari)
 
 ## 💬 Let's Talk About
 
