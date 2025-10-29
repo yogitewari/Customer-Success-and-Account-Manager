@@ -10,11 +10,11 @@ Standard operating procedures for all customer interactions to ensure consistent
 ## 🎯 Communication Principles
 
 ### Core Values
-- **Empathy**: Understand and acknowledge customer frustrations
-- **Clarity**: Use clear, concise language without jargon
-- **Transparency**: Be honest about limitations and timelines
-- **Professionalism**: Maintain composure in all situations
-- **Ownership**: Take responsibility for resolving issues
+- Empathy: Understand and acknowledge customer frustrations
+- Clarity: Use clear, concise language without jargon
+- Transparency: Be honest about limitations and timelines
+- Professionalism: Maintain composure in all situations
+- Ownership: Take responsibility for resolving issues
 
 ### Response Time SLAs
 | Priority | First Response | Update Frequency | Resolution Target |
